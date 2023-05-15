@@ -1,5 +1,7 @@
 #Strategy implemented in QuantConnect backtesting environment
 
+#Exponential moving average crossover strategy based on the momentum of Lumber prices on the S&P HomeBuilders index
+
 # region imports
 from AlgorithmImports import *
 # endregion
